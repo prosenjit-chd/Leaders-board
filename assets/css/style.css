@@ -72,6 +72,8 @@ nav a{
 .player{
     display: flex;
     align-items: center;
+    /* justify-self: center; */
+
 }
 .player img{
     height: 56px;
